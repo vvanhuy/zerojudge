@@ -67,3 +67,12 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ── Bo sung: file Dev-C++ sinh tu dong ──
+Makefile.win
+*.layout
+
+# ── Bo sung: rac Windows / editor ──
+Thumbs.db
+desktop.ini
+.vscode/
