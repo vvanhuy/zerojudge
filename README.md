@@ -26,6 +26,7 @@ summary, not the official title.
 | a038 | `a038_reverse_integer.cpp` | Digit extraction with `%10` and `/10`, split into its own function |
 | a244 | `a244_simple_calculator.cpp` | Multiple test cases per run, branching on the operation code |
 | b532 | `b532_string_processing.cpp` | String scanning, digit filtering, `switch`, the `cin >>` then `getline` pitfall |
+| b993 | `b993_find_maximum.cpp` | Running maximum over a stream, `while (cin >> n)` until EOF |
 
 ## Environment
 
