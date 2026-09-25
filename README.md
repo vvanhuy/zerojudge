@@ -27,6 +27,7 @@ summary, not the official title.
 | a244 | `a244_simple_calculator.cpp` | Multiple test cases per run, branching on the operation code |
 | b532 | `b532_string_processing.cpp` | String scanning, digit filtering, `switch`, the `cin >>` then `getline` pitfall |
 | b993 | `b993_find_maximum.cpp` | Running maximum over a stream, `while (cin >> n)` until EOF |
+| c418 | `c418_right_triangle_stars.cpp` | Nested loops printing a right-angled triangle of stars |
 
 ## Environment
 
