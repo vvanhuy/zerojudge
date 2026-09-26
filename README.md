@@ -29,6 +29,7 @@ summary, not the official title.
 | b993 | `b993_find_maximum.cpp` | Running maximum over a stream, `while (cin >> n)` until EOF |
 | c418 | `c418_right_triangle_stars.cpp` | Nested loops printing a right-angled triangle of stars |
 | c419 | `c419_isosceles_triangle_stars.cpp` | Two inner loops per row: padding first, then stars |
+| d069 | `d069_leap_year_v1.cpp` | Leap-year rule, `&&` binding tighter than `\|\|` |
 
 ## Environment
 
